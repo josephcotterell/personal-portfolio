@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color: brown;
+}
+
+li,
+a,
+button {
+  font-family: "Courier New", Courier, monospace;
+  font font-weight: 300;
+  font size: 16px;
+  color: black;
+  text-decoration: none;
+
+}
