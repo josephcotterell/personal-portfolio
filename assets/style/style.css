@@ -52,6 +52,33 @@
 .contact-me--button {
 }
 
+.portfolio {
+  border: 1px solid red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: auto;
+}
+
+.main-project {
+  border: 1px solid red;
+  width: 90%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.project-description {
+  width: 70%;
+}
+
+.secondary-projects-container {
+  border: 1px solid red;
+  width: 90%;
+}
+
 /* media queries */
 
 @media screen and (max-width: 480px) {
