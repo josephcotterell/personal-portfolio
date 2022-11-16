@@ -30,3 +30,27 @@
 .navbar-link:hover {
   color: red;
 }
+
+.about-me {
+  height: 40vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.description {
+  width: 80%;
+}
+
+/* media queries */
+
+@media screen and (max-width: 480px) {
+  navbar {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .navbar-button {
+    margin: 10px 20px;
+  }
+}
