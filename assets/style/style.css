@@ -42,6 +42,16 @@
   width: 80%;
 }
 
+.contact-me {
+  display: flex;
+  justify-content: space-evenly;
+  height: 7vh;
+  align-items: center;
+}
+
+.contact-me--button {
+}
+
 /* media queries */
 
 @media screen and (max-width: 480px) {
@@ -52,5 +62,10 @@
 
   .navbar-button {
     margin: 10px 20px;
+  }
+
+  .contact-me {
+    flex-direction: column;
+    height: 15vh;
   }
 }
