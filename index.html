@@ -4,12 +4,13 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" type="text/css" href="style/style.css" />
+    <link rel="stylesheet" type="text/css" href="./assets/style/style.css" />
     <title>Document</title>
   </head>
   <body>
     <div class="hero">
-      <nav>
+      <nav class="nav">
+        <img class="profile-photo" src="./assets/img/profile-pic.jpg" alt="" />
         <ul>
           <li><a href="#"> About Me</a></li>
           <li><a href="#"> Contact Me</a></li>
@@ -20,15 +21,18 @@
 
     <!-- container -->
     <main>
+      <!-- about-me section -->
       <section class="about-me">
         <div><img src="" alt="" /></div>
         <div class="description"></div>
       </section>
+      <!-- contact-me section -->
       <section class="contact-me">
         <div><a class="linkedin"></a></div>
         <div><a class="github"></a></div>
         <div><a class="twitter"></a></div>
       </section>
+      <!-- portfolio -->
       <section class="portfolio">
         <div class="main-project"></div>
         <div class="secondary-projects-container">
@@ -51,10 +55,5 @@
         </div>
       </section>
     </main>
-    <!-- inside container -->
-    <!-- 1about me section one photo, one description (something about who you are as a dev) -->
-    <!-- one contact me section (3 links one to linkedin one to github and one to twitter or other stuff)-->
-    <!-- one portfolio section (multiple project cards inside of it, the first one being bigger than the others. most of them will be placeholders)-->
-    <!-- each project has to have a screenshot, link to deployed application and link to github -->
   </body>
 </html>
