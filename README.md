@@ -3,7 +3,7 @@
 - Name: Joseph Cotterell
 - Email: josephcotterell@hotmail.co.uk
 
-# Description:
+# Description
 
 -I have added a navigation bar with clickable links
 
@@ -21,8 +21,8 @@
 
 ## Link to GitHub repository
 
-[here](https://github.com/josephcotterell)
+[You can find my repository here](https://github.com/josephcotterell/personal-portfolio)
 
 ## Link to deployed application
 
-[here](https://github.com/josephcotterell/personal-portfolio)
+[Access this app on the deployed link here](https://josephcotterell.github.io/personal-portfolio/)
