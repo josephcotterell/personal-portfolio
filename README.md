@@ -1,4 +1,4 @@
-#Personal Portfolio
+# Personal Portfolio
 
 - Name: Joseph Cotterell
 - Email: josephcotterell@hotmail.co.uk
@@ -7,6 +7,10 @@
 Technologies Used:
 I used HTML and CSS in Visual Studio Code to make this project. I pushed this project using GitBash.
 
-![Alt text](../../../../../C:/Users/Joseph/Desktop/personal-portfolio/assets/img/port%20pic.png)
+![alt text](assets\img\port pic.png)
 
-GitHub Link:https://github.com/josephcotterell/personal-portfolio
+My personal Github: (https://github.com/josephcotterell)
+
+
+My Project: (https://github.com/josephcotterell/personal-portfolio)
+
