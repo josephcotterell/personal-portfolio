@@ -18,7 +18,7 @@
 
 ## Screenshots
 
-## ![screenshot of my portfolio](assets\img\port-pic.png)
+## ![screenshot of my portfolio](./assets/img/port-pic.png)
 
 ## Link to GitHub repository
 
