@@ -7,10 +7,17 @@
 Technologies Used:
 I used HTML and CSS in Visual Studio Code to make this project. I pushed this project using GitBash.
 
-![alt text](assets\img\port pic.png)
+## Screenshots
 
-My personal Github: (https://github.com/josephcotterell)
+## ![screenshot of my portfolio](assets\img\port pic.png)
+
+## Link to GitHub repository
+
+[here](https://github.com/josephcotterell)
+
+## Link to deployed application
+
+[here](https://github.com/josephcotterell/personal-portfolio)
 
 
-My Project: (https://github.com/josephcotterell/personal-portfolio)
 
