@@ -2,8 +2,9 @@
 
 - Name: Joseph Cotterell
 - Email: josephcotterell@hotmail.co.uk
-- Description: 
-- This is my personal portfolio
+
+
+# Description: 
 
 -I have added a navigation bar with clickable links
 
